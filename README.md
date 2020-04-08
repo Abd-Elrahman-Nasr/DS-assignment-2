@@ -10,5 +10,5 @@ Karim:
 
 Bahaa:
 - Queues (S1_P3)
-- Balanced string (S1_P2)
+- Balanced string (S2_P2)
 - Sort an array according to another array (S2_P3)
